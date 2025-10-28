@@ -1,4 +1,4 @@
-# UCL Dept of Population Science and Experimental Medicine (PSEM)
+# UCL Dept of Population Science and Experimental Medicine
 
 ## Welcome to the PSEM GitHub Page
 
