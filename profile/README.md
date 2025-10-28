@@ -20,7 +20,7 @@ These pages are still in development, but over time aims to build a collection o
 These will include scripts and documentation relevant (but not limited) to:
 
 - `PSEM Cohorts` Resources which may be helpful for people working with NSHD or SABRE data
-- `CLS Cohorts` Resources which may be helpful for people working with NCDS, BCS70, MSC, or Next Steps data
+- `CLS Cohorts` Resources which may be helpful for people working with NCDS, BCS70, MCS, or Next Steps data
 - `UK Biobank` Resources which may be helpful for people working with UK Biobank data
 - `Epidemiology Scripts and Workflows` Resources which may be helpful for people conducting epidemiological research in programmes like R or Stata
 - `Genetic Epidemiology Scripts and Workflows` Resources which may be helpful for people conducting geneticepidemiological research in programmes like PLINK or PRSice
