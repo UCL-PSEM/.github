@@ -15,14 +15,14 @@ Activities in the department range from discovery science, through detailed card
 
 ## Using This Site
 
-These pages are still in development, but over time aims to build a collection of resources that may aid members of both PSEM and the wider scientific community in their research.
+These pages are still in development, but over time we plan to build a collection of resources that may aid members of both PSEM and the wider scientific community in their research.
 
 These will include scripts and documentation relevant (but not limited) to:
 
 - `PSEM Cohorts` Resources which may be helpful for people working with NSHD or SABRE data
 - `CLS Cohorts` Resources which may be helpful for people working with NCDS, BCS70, MCS, or Next Steps data
 - `UK Biobank` Resources which may be helpful for people working with UK Biobank data
-- `Epidemiology Scripts and Workflows` Resources which may be helpful for people conducting epidemiological research in programmes like R or Stata
-- `Genetic Epidemiology Scripts and Workflows` Resources which may be helpful for people conducting genetic epidemiological research in programmes like PLINK or PRSice
+- `Epidemiology Scripts and Workflows` Resources which may be helpful for people conducting epidemiological research in programmes like R/Stata/etc
+- `Genetic Epidemiology Scripts and Workflows` Resources which may be helpful for people conducting genetic epidemiological research in programmes like PLINK/PRSice/etc
 - `Data Collection and Analysis Scripts and Workflows` Resources which may be helpful for people working on raw data output in programmes like Matlab
 - `Scripts from Published Papers` Open access scripts published alongside peer-reviewed PSEM papers
