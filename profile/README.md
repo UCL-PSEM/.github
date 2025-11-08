@@ -15,7 +15,7 @@ Activities in the department range from discovery science, through detailed card
 
 ## Using This Site
 
-These pages are still in development, but over time we plan to build a collection of resources that may aid members of both PSEM and the wider scientific community in their research.
+These pages are still in development but over time willl contain a collection of resources that should aid members of both PSEM and the wider scientific community in their research.
 
 These will include scripts and documentation relevant (but not limited) to:
 
