@@ -13,7 +13,7 @@ Our department includes the following groups:
 
 Activities in the department range from discovery science, through detailed cardiometabolic phenotyping, to policy-influencing research.
 
-A full list of scientific papers published by PSEM researchers can be found [here](https://mrphys.github.io/publications/population/)
+A full list of scientific papers published by PSEM researchers can be found [here](https://mrphys.github.io/publications/population/).
 
 ## Using This Site
 
