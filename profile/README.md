@@ -21,7 +21,7 @@ These pages are still in development but over time willl contain a collection of
 
 These will include scripts and documentation relevant (but not limited) to:
 
-- `Scripts from Published Papers` Open access scripts published alongside peer-reviewed PSEM papers
+- [`Scripts from Published Papers`](https://github.com/UCL-PSEM/Published_Papers) Open access scripts published alongside peer-reviewed PSEM papers
 - `PSEM Cohorts` Resources which may be helpful for people working with NSHD or SABRE data
 - `CLS Cohorts` Resources which may be helpful for people working with NCDS, BCS70, MCS, or Next Steps data
 - `UK Biobank` Resources which may be helpful for people working with UK Biobank data
