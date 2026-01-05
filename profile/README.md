@@ -23,7 +23,7 @@ These will include scripts and documentation relevant (but not limited) to:
 
 - [`Scripts from Published Papers`](https://github.com/UCL-PSEM/Published_Papers) Open access scripts published alongside peer-reviewed PSEM papers
 - [`PSEM Cohorts`](https://github.com/UCL-PSEM/PSEM_Cohorts_Data_Management) Resources which may be helpful for people working with NSHD or SABRE data
-- [`CLS Cohorts`](cls-data.github.io) Resources which may be helpful for people working with NCDS, BCS70, MCS, or Next Steps data
+- [`CLS Cohorts`](https://cls-data.github.io/docs/intro.html) Resources which may be helpful for people working with NCDS, BCS70, MCS, or Next Steps data
 - [`UK Biobank`](https://github.com/UCL-PSEM/UKB_Resources) Resources which may be helpful for people working with UK Biobank data
 - [`Epidemiology Scripts and Workflows`](https://github.com/UCL-PSEM/Epidemiology_Scripts_And_Workflows) Resources which may be helpful for people conducting epidemiological research in programmes like R/Stata/etc
 - [`Genetic Epidemiology Scripts and Workflows`](https://github.com/UCL-PSEM/Genetic_Epidemiology_Scripts_And_Workflows) Resources which may be helpful for people conducting genetic epidemiological research in programmes like PLINK/PRSice/etc
